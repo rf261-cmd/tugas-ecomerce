@@ -1,0 +1,574 @@
+INFO - 2024-10-31 04:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:48:35 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('details', '1687')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 04:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:49:14 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('detailsroduk', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 04:49:31 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('detailsroduk', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 04:49:33 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('detailsroduk', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:49:35 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('details', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:53:41 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('details', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:55:51 --> syntax error, unexpected single-quoted string "gaji"
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\transaksi')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\transaksi')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\transaksi', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:55:54 --> syntax error, unexpected single-quoted string "gaji"
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\transaksi')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\transaksi')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\transaksi', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:55:57 --> syntax error, unexpected single-quoted string "gaji"
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\transaksi')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\transaksi')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\transaksi', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:56:26 --> Undefined property: App\Controllers\Transaksi::$productModel
+in APPPATH\Controllers\transaksi.php on line 150.
+ 1 APPPATH\Controllers\transaksi.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Transaksi::$productModel', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Controllers\\transaksi.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('details', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:57:01 --> Undefined variable $transaksi
+in APPPATH\Views\transaksi\detail.php on line 8.
+ 1 APPPATH\Views\transaksi\detail.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaksi', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\detail.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/detail', [], true)
+ 5 APPPATH\Controllers\transaksi.php(151): view('transaksi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->detail('details', '1687')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 04:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 04:58:28 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 11.
+ 1 APPPATH\Views\transaksi\details.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(151): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '1686')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:00:24 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 11.
+ 1 APPPATH\Views\transaksi\details.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '1686')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:01:39 --> Undefined variable $product
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '1686')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:01:42 --> Undefined variable $product
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:03:23 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:11:29 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:11:32 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:12:26 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:13:34 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 10.
+ 1 APPPATH\Views\transaksi\details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:15:39 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 13.
+ 1 APPPATH\Views\transaksi\details.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(154): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:19:37 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:19:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:19:40 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:21:20 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 13.
+ 1 APPPATH\Views\transaksi\details.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 05:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:42:57 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:43:09 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 13.
+ 1 APPPATH\Views\transaksi\details.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:43:24 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 13.
+ 1 APPPATH\Views\transaksi\details.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 05:45:32 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 11.
+ 1 APPPATH\Views\transaksi\details.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 05:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 05:46:10 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 11.
+ 1 APPPATH\Views\transaksi\details.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 15:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 15:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 15:26:57 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 11.
+ 1 APPPATH\Views\transaksi\details.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:29:59 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:30:41 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:30:42 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:30:43 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:30:44 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:30:45 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:31:08 --> Call to undefined method App\Models\gajiModel::gettransaksi
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\transaksi.php(151): CodeIgniter\Model->__call('gettransaksi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:31:09 --> Call to undefined method App\Models\gajiModel::gettransaksi
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\transaksi.php(151): CodeIgniter\Model->__call('gettransaksi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:34:05 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:34:05 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 15:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 15:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 15:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 15:34:11 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:37:21 --> Undefined variable $item
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:37:23 --> Undefined variable $item
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 15:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 15:39:34 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 10.
+ 1 APPPATH\Views\transaksi\details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 15:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 15:41:36 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\transaksi\details.php on line 10.
+ 1 APPPATH\Views\transaksi\details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '168')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+INFO - 2024-10-31 15:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-31 15:42:02 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 12.
+ 1 APPPATH\Views\transaksi\details.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '1687')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')
+CRITICAL - 2024-10-31 15:43:08 --> Trying to access array offset on value of type null
+in APPPATH\Views\transaksi\details.php on line 16.
+ 1 APPPATH\Views\transaksi\details.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php', 16)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\app\\Views\\transaksi\\details.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/details', [], true)
+ 5 APPPATH\Controllers\transaksi.php(153): view('transaksi/details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Transaksi->details('details', '1687')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\update finance\\admin2\\public\\index.php')

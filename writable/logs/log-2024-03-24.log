@@ -1,0 +1,728 @@
+INFO - 2024-03-24 11:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 11:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 12:04:39 --> Unsupported operand types: int + string
+in APPPATH\Views\kelas\indexkls.php on line 32.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 4 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 12:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 12:06:11 --> Unsupported operand types: int + string
+in APPPATH\Views\kelas\indexkls.php on line 32.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 4 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 12:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 12:09:38 --> Unsupported operand types: int + string
+in APPPATH\Views\kelas\indexkls.php on line 31.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 4 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 12:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 12:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 16:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 16:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 16:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 16:50:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 17:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:49:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 18:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 20:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:01:05 --> Undefined array key "kd_kelas"
+in APPPATH\Views\kelas\indexkls.php on line 41.
+ 1 APPPATH\Views\kelas\indexkls.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kd_kelas"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php', 41)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 5 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:02:14 --> Undefined array key "kd_kelas"
+in APPPATH\Views\kelas\indexkls.php on line 41.
+ 1 APPPATH\Views\kelas\indexkls.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kd_kelas"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php', 41)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 5 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:02:25 --> Undefined array key "kd_kelas"
+in APPPATH\Views\kelas\indexkls.php on line 41.
+ 1 APPPATH\Views\kelas\indexkls.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kd_kelas"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php', 41)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\kelas\\indexkls.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('kelas/indexkls', [], true)
+ 5 APPPATH\Controllers\kelas.php(21): view('kelas/indexkls', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:21:50 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:21:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:21:55 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:21:55 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:21:59 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:21:59 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:22:07 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:22:07 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:22:22 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:22:22 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:22:33 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+CRITICAL - 2024-03-24 21:22:33 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kelas`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\kelasModel.php(16): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\kelas.php(19): App\Models\kelasModel->getkelas()
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Kelas->indexkls()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelas))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-24 21:22:45 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'user', 3306, '', 0)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\Home.php(20): CodeIgniter\BaseModel->first()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Home->val_user()
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#5 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\app\Controllers\Home.php(20): CodeIgniter\BaseModel->first()
+#6 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(919): App\Controllers\Home->val_user()
+#7 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\rafi_atiz\Downloads\22.230.0161_abdurrafi_tugas3_kelas\tugas3_kelas\admin2\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_a...')
+#11 {main}
+CRITICAL - 2024-03-24 21:22:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `email_user` = :email_user:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Home.php(20): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->val_user()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:29:54 --> Undefined array key "nama_matkul"
+in APPPATH\Views\Matkul\indexmtkl.php on line 34.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_matkul"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 34)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:32:47 --> Undefined array key "dosen_p"
+in APPPATH\Views\Matkul\indexmtkl.php on line 36.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dosen_p"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:32:47 --> Undefined array key "dosen_p"
+in APPPATH\Views\Matkul\indexmtkl.php on line 36.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dosen_p"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:32:48 --> Undefined array key "dosen_p"
+in APPPATH\Views\Matkul\indexmtkl.php on line 36.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dosen_p"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:32:49 --> Undefined array key "dosen_p"
+in APPPATH\Views\Matkul\indexmtkl.php on line 36.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dosen_p"', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:48:58 --> syntax error, unexpected end of file
+in APPPATH\Views\Matkul\indexmtkl.php on line 57.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 3 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:52:01 --> syntax error, unexpected end of file
+in APPPATH\Views\Matkul\indexmtkl.php on line 65.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 3 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:52:02 --> syntax error, unexpected end of file
+in APPPATH\Views\Matkul\indexmtkl.php on line 65.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 3 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:55:45 --> Undefined variable $tg
+in APPPATH\Views\Matkul\indexmtkl.php on line 33.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tg', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 33)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:56:17 --> Undefined variable $k
+in APPPATH\Views\Matkul\indexmtkl.php on line 38.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 21:56:45 --> Undefined array key "id_transaksi "
+in APPPATH\Views\Matkul\indexmtkl.php on line 38.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_transaksi "', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 21:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 21:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 22:03:23 --> Undefined array key "id_transaksi "
+in APPPATH\Views\Matkul\indexmtkl.php on line 39.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_transaksi "', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 39)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 22:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-24 22:19:48 --> Undefined variable $totalGaji
+in APPPATH\Views\Matkul\indexmtkl.php on line 54.
+ 1 APPPATH\Views\Matkul\indexmtkl.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalGaji', 'C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php', 54)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\app\\Views\\Matkul\\indexmtkl.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('matkul/indexmtkl', [], true)
+ 5 APPPATH\Controllers\matkul.php(22): view('matkul/indexmtkl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\matkul->indexmtkl()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rafi_atiz\\Downloads\\22.230.0161_abdurrafi_tugas3_kelas\\tugas3_kelas\\admin2\\public\\index.php')
+INFO - 2024-03-24 22:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-24 22:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

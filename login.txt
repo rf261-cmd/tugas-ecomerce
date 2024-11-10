@@ -1,0 +1,5 @@
+admin :
+ user:rafi pw:1
+
+cust : 
+user:atiz pw:1

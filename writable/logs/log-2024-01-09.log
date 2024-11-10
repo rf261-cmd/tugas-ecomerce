@@ -1,0 +1,71 @@
+CRITICAL - 2024-01-09 09:24:46 --> Undefined variable $logout
+in APPPATH\Config\Routes.php on line 10.
+ 1 APPPATH\Config\Routes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $logout', 'C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php', 10)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+CRITICAL - 2024-01-09 09:25:39 --> Undefined variable $logout
+in APPPATH\Config\Routes.php on line 10.
+ 1 APPPATH\Config\Routes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $logout', 'C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php', 10)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+CRITICAL - 2024-01-09 09:25:40 --> Undefined variable $logout
+in APPPATH\Config\Routes.php on line 10.
+ 1 APPPATH\Config\Routes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $logout', 'C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php', 10)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+CRITICAL - 2024-01-09 09:27:03 --> Undefined variable $logout
+in APPPATH\Config\Routes.php on line 10.
+ 1 APPPATH\Config\Routes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $logout', 'C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php', 10)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+INFO - 2024-01-09 09:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-09 09:28:23 --> Undefined array key "firs_name"
+in APPPATH\Controllers\Home.php on line 29.
+ 1 APPPATH\Controllers\Home.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "firs_name"', 'C:\\Users\\HP\\Downloads\\admindua\\admin2\\app\\Controllers\\Home.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->val_user()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+INFO - 2024-01-09 09:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-09 09:52:35 --> Object of type CodeIgniter\Session\Session is not callable
+in APPPATH\Filters\auth_login.php on line 14.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\Auth_Login->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\HP\\Downloads\\admindua\\admin2\\public\\index.php')
+INFO - 2024-01-09 09:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 09:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 10:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 10:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 10:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 10:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-09 10:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
